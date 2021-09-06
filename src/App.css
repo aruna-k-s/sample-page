@@ -1,5 +1,27 @@
-.App {
-  text-align: center;
+.App{
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.head{
+  width: 100%;
+  height: 45%;
+  z-index: -1;
+  position: fixed;
+  background: linear-gradient(274.83deg, #5DB0DF 0.58%, #5D7ADF 74.3%);
+}
+
+@media screen and (min-width: 768px) {
+  .App {
+    margin: 0px 10%;
+  }
+}
+.w-100{
+  width: 100%;
+}
+
+.flex-grow-1{
+  flex-grow: 1;
 }
 
 .App-logo {
