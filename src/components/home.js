@@ -10,7 +10,7 @@ export default class Home extends Component {
                 {/* <Navbar className="nav-bar" /> */}
                 <div className="quote">
                     <p><strong>Find Your Dream Job</strong></p>
-                    <p>Browse through thousands of full-time or part-time jobs near you right</p>
+                    <p>Browse through thousands of full-time or part-time jobs near you right </p>
                 </div>
 
                 <div className="search-box">
