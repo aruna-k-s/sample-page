@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sample-page/static/css/main.4af3ea97.chunk.css",
+    "main.js": "/sample-page/static/js/main.ea9df038.chunk.js",
+    "main.js.map": "/sample-page/static/js/main.ea9df038.chunk.js.map",
+    "runtime-main.js": "/sample-page/static/js/runtime-main.cdb1d2a9.js",
+    "runtime-main.js.map": "/sample-page/static/js/runtime-main.cdb1d2a9.js.map",
+    "static/js/2.634097cb.chunk.js": "/sample-page/static/js/2.634097cb.chunk.js",
+    "static/js/2.634097cb.chunk.js.map": "/sample-page/static/js/2.634097cb.chunk.js.map",
+    "static/js/3.cd2e6a7e.chunk.js": "/sample-page/static/js/3.cd2e6a7e.chunk.js",
+    "static/js/3.cd2e6a7e.chunk.js.map": "/sample-page/static/js/3.cd2e6a7e.chunk.js.map",
+    "index.html": "/sample-page/index.html",
+    "static/css/main.4af3ea97.chunk.css.map": "/sample-page/static/css/main.4af3ea97.chunk.css.map",
+    "static/js/2.634097cb.chunk.js.LICENSE.txt": "/sample-page/static/js/2.634097cb.chunk.js.LICENSE.txt",
+    "static/media/navbar.css": "/sample-page/static/media/JobHunt.91fb9056.svg",
+    "static/media/home.css": "/sample-page/static/media/select_location.7a7a4e6f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdb1d2a9.js",
+    "static/js/2.634097cb.chunk.js",
+    "static/css/main.4af3ea97.chunk.css",
+    "static/js/main.ea9df038.chunk.js"
+  ]
+}
