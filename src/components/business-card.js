@@ -9,7 +9,7 @@ export default class BusinessCard extends Component{
                 </div>
                 <div className="details">
                     <p><strong>Executive Producer</strong></p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                    <p>Lorem ipsum dolor sit amet, consectetur     asdf adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                     <div> 
                         <button className="view-details-btn"> View Details</button>
                     </div>
